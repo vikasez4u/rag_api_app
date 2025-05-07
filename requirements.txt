@@ -1,0 +1,10 @@
+ollama
+flask==2.3.*
+llama-index==0.10.*
+flask-cors==4.0.*
+python-dotenv==1.0
+llama-index==0.10.*
+llama-index-core==0.*
+llama-index-llms-ollama==0.1.* 
+llama-index-readers-web==0.1.* 
+llama-index-embeddings-ollama==0.1.* 
